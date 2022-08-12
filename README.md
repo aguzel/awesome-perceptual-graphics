@@ -9,6 +9,6 @@ Image Reference : [ Perception for Computer Graphics (Myszkowski/Tursun)](https:
 ### Table of Contents
 Labs And Researchers
 
-[UCL Computational Light Laboratory](https://complightlab.com/)
+[University College London Computational Light Laboratory](https://complightlab.com/)
 
-[UC Berkeley Perceptual Reality Lab](http://www.emilyacooper.org/index.html)
+[Uuniversity of California, Berkeley Perceptual Reality Lab](http://www.emilyacooper.org/index.html)
