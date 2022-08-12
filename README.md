@@ -3,4 +3,4 @@ A  curated list of  awesome resources on perceptual graphics, inspired by awesom
 
 ### Table of Contents
 Labs And Researchers
-[Computational Light Laboratory] [GitHub Pages] (https://complightlab.com/)
+[Computational Light Laboratory] (https://complightlab.com/)
