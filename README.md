@@ -23,4 +23,4 @@ Image Reference : [xkcd : visual field](https://xkcd.com/1080/)
 
 * [High dynamic range imaging: acquisition, display, and image-based lighting](http://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) -Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
 
-* [Image Statistics in Visual Computing](https://www.amazon.com/gp/product/B00OD4EO4C/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) -Tania Pouli, Erik Reinhard, Douglas W. Cunningham 2013
+* [Image Statistics in Visual Computing](https://www.routledge.com/Image-Statistics-in-Visual-Computing/Pouli-Reinhard-Cunningham/p/book/9781568817255) -Tania Pouli, Erik Reinhard, Douglas W. Cunningham 2013
