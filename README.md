@@ -7,7 +7,7 @@ A  curated list of  awesome resources on perceptual graphics, inspired by awesom
 Image Reference : [xkcd : visual field](https://xkcd.com/1080/)
 
 ### Table of Contents
-Labs And Researchers
+#### Labs And Researchers
 
 [University College London Computational Light Laboratory](https://complightlab.com/)
 
@@ -15,7 +15,8 @@ Labs And Researchers
 
 [Università della Svizzera italiana, The Perception, Display, and Fabrication Group](https://www.pdf.inf.usi.ch/team.html)
 
-Books 
+#### Books 
+
 Color Appearance Models [3rd Edition]
 
 Color Imaging: Fundamentals and Applications [1st Edition]
