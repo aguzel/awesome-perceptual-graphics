@@ -14,3 +14,12 @@ Labs And Researchers
 [Uuniversity of California, Berkeley Perceptual Reality Lab](http://www.emilyacooper.org/index.html)
 
 [Università della Svizzera italiana, The Perception, Display, and Fabrication Group](https://www.pdf.inf.usi.ch/team.html)
+
+Books 
+Color Appearance Models [3rd Edition]
+
+Color Imaging: Fundamentals and Applications [1st Edition]
+
+High Dynamic Range Imaging: Acquisition, Display, and Image-Based Lighting [2nd Edition]
+
+Image Statistics in Visual Computing [1st Edition]
