@@ -9,11 +9,11 @@ Image Reference : [xkcd : visual field](https://xkcd.com/1080/)
 ### Table of Contents
 #### Labs And Researchers
 
-[University College London Computational Light Laboratory](https://complightlab.com/)
+* [University College London Computational Light Laboratory](https://complightlab.com/)
 
-[Uuniversity of California, Berkeley Perceptual Reality Lab](http://www.emilyacooper.org/index.html)
+* [Uuniversity of California, Berkeley Perceptual Reality Lab](http://www.emilyacooper.org/index.html)
 
-[Università della Svizzera italiana, The Perception, Display, and Fabrication Group](https://www.pdf.inf.usi.ch/team.html)
+* [Università della Svizzera italiana, The Perception, Display, and Fabrication Group](https://www.pdf.inf.usi.ch/team.html)
 
 #### Books 
 
