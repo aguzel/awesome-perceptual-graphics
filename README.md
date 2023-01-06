@@ -1,5 +1,5 @@
-# awesome-perceptual-graphics
-A  curated list of  awesome resources on perceptual graphics, inspired by awesome-computer-vision. [work in progress]
+# awesome-visual-perception
+A  curated list of  awesome resources on visual perception, perceptual graphics and neural modelling of pattern recognition, inspired by awesome-computer-vision. [work in progress]
 
 
 <img src="https://user-images.githubusercontent.com/46696280/184265236-790f933f-4881-4bb7-bc61-51af33b17354.png" width=50% height=50%>
